@@ -4,7 +4,7 @@ I try to make codes from data visualization to Object Detection/Segmentation.
 
 - Requirements : Numpy, OpenCV, Matplotlib 
 
-## Projecting points cloud into panorma Depth Images
+## Project points cloud into panorma Depth Images
 - ```Lidar_to_Panorama.py```
 - Method from http://www.roboticsproceedings.org/rss12/p42.pdf
 
